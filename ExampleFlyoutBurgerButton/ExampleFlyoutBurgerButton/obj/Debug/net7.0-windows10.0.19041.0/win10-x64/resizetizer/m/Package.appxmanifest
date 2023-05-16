@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" IgnorableNamespaces="uap rescap">
+  <Identity Name="1116428b-46a8-47da-afac-c06c8ac7d1c8" Publisher="CN=User Name" Version="1.0.0.1" />
+  <mp:PhoneIdentity PhoneProductId="2F1DF20D-82F6-4A55-951F-4A082AAAC34A" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>ExampleFlyoutBurgerButton</DisplayName>
+    <PublisherDisplayName>User Name</PublisherDisplayName>
+    <Logo>appiconStoreLogo.png</Logo>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.19041.0" />
+    <TargetDeviceFamily Name="Windows.Desktop" MinVersion="10.0.17763.0" MaxVersionTested="10.0.19041.0" />
+  </Dependencies>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="$targetentrypoint$">
+      <uap:VisualElements DisplayName="ExampleFlyoutBurgerButton" Description="ExampleFlyoutBurgerButton" Square150x150Logo="appiconMediumTile.png" Square44x44Logo="appiconLogo.png" BackgroundColor="transparent">
+        <uap:DefaultTile Square71x71Logo="appiconSmallTile.png" Wide310x150Logo="appiconWideTile.png" Square310x310Logo="appiconLargeTile.png" ShortName="ExampleFlyoutBurgerButton">
+          <uap:ShowNameOnTiles>
+            <uap:ShowOn Tile="square150x150Logo" />
+            <uap:ShowOn Tile="wide310x150Logo" />
+          </uap:ShowNameOnTiles>
+        </uap:DefaultTile>
+        <uap:SplashScreen Image="splashSplashScreen.png" />
+      </uap:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <rescap:Capability Name="runFullTrust" />
+  </Capabilities>
+</Package>
