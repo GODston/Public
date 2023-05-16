@@ -1,0 +1,1 @@
+C:\Repos\Public\ExampleFlyoutBurgerButton\ExampleFlyoutBurgerButton\ExampleFlyoutBurgerButton.csproj;x64

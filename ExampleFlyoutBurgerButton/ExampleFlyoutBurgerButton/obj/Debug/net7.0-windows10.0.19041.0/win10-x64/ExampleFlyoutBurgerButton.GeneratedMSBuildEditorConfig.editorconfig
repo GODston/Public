@@ -22,11 +22,29 @@ build_metadata.AdditionalFiles.ManifestResourceName = ExampleFlyoutBurgerButton.
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Repos/Public/ExampleFlyoutBurgerButton/ExampleFlyoutBurgerButton/Flyout.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ExampleFlyoutBurgerButton.Flyout.xaml
+build_metadata.AdditionalFiles.TargetPath = Flyout.xaml
+build_metadata.AdditionalFiles.RelativePath = Flyout.xaml
+
 [C:/Repos/Public/ExampleFlyoutBurgerButton/ExampleFlyoutBurgerButton/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ExampleFlyoutBurgerButton.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Repos/Public/ExampleFlyoutBurgerButton/ExampleFlyoutBurgerButton/NewContent1.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ExampleFlyoutBurgerButton.NewContent1.xaml
+build_metadata.AdditionalFiles.TargetPath = NewContent1.xaml
+build_metadata.AdditionalFiles.RelativePath = NewContent1.xaml
+
+[C:/Repos/Public/ExampleFlyoutBurgerButton/ExampleFlyoutBurgerButton/NewContent2.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ExampleFlyoutBurgerButton.NewContent2.xaml
+build_metadata.AdditionalFiles.TargetPath = NewContent2.xaml
+build_metadata.AdditionalFiles.RelativePath = NewContent2.xaml
 
 [C:/Repos/Public/ExampleFlyoutBurgerButton/ExampleFlyoutBurgerButton/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -39,3 +57,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ExampleFlyoutBurgerButton.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Repos/Public/ExampleFlyoutBurgerButton/ExampleFlyoutBurgerButton/TabbedP.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ExampleFlyoutBurgerButton.TabbedP.xaml
+build_metadata.AdditionalFiles.TargetPath = TabbedP.xaml
+build_metadata.AdditionalFiles.RelativePath = TabbedP.xaml
